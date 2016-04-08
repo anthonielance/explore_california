@@ -10,3 +10,14 @@ assets/videos/
 !assets/videos/tour_*.mp4
 
 # question: would log/archive/access.log be ignored? No.
+
+# Types of files you may want to ignored
+#   complied source code
+#   packages and compressed files
+#   logs and database
+#   operating system generated files
+#   user-uploaded assets (images, PDFs, videos)
+
+# For more information and additional files types you may want to ignore
+#   https://help.github.com/articles/ignoring-files
+#   https://github.com/github/gitignore
